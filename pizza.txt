@@ -5,3 +5,8 @@ pepperoni
 green pepper
 pineapple
 cheese
+
+Direction 
+
+put sauce 
+put vegetables
